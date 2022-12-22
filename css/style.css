@@ -1,0 +1,11 @@
+.work{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.work-flex {
+    margin-bottom: 15px;
+}
+
+
+
