@@ -1,7 +1,31 @@
 nav {
     z-index: 1;
     position: fixed;
+    background-color: #573391;
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 5px;
+    height: 50px;
 }
+
+nav a {
+    color: #357C3C;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+
+.nav-link:hover {
+    color: #EF6D6D
+}
+
+.nav {
+    display: flex;
+}
+
+
+
 
 .work{
     display: flex;
