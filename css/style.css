@@ -29,6 +29,11 @@ body {
     border: #EF6D6D;
 }
 
+#github-btn:hover {
+    background: #573391;
+    border: #573391;
+}
+
 .about-me {
     background-color: #357C3C; !important;
 }
