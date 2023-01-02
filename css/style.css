@@ -19,18 +19,29 @@ nav a {
     color: #EF6D6D
 }
 
-.nav {
-    display: flex;
+.about-me a {
+    text-decoration: none;
+    color: #357C3C;
+    font-size: 25px;
+    
 }
-
-
 
 .about-me {
-    width: 50%;
-    display:inline;
-    padding: 4px;
-    margin: 4px;
+    text-align: center;
 }
+
+.about-me-links {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    
+}
+
+#about-me-link:hover {
+    color: #EF6D6D
+}
+
+
 
 .img-container {
     max-height: 300px;
@@ -43,30 +54,12 @@ nav a {
     max-width: fit-content;
     align-items: center;
     border-radius: 50%;
+    position: relative; left: 30px; top: 2px;
 
 }
 
 
 
 
-.work{
-    display: flex;
-    justify-content: space-evenly;
-}
-
-.work-flex {
-    margin-bottom: 15px;
-}
-
-.skills {
-    display: flex;
-    justify-content: space-between;
-    
-}
-
-.skills-item {
-    padding: 20px;
-    margin: 20px;
-}
 
 
