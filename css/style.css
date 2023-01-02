@@ -63,16 +63,28 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
     position: absolute;
     bottom: 0;
     right: 0;
-    background: black;
+    background: #573391;
     color: white;
     opacity: 0;
     visibility: hidden;
     -webkit-transition: visibility 0s, opacity 0.5s linear; 
     transition: visibility 0s, opacity 0.5s linear;
     
+}
+
+.project-btn {
+    background-color: #EF6D6D;
+    border: #EF6D6D;
+    width: 30%;
+}
+
+.project-btn:hover {
+    background-color: #357C3C;
+    border: #357C3C
 }
 
 .card:hover {
