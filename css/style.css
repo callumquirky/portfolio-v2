@@ -19,28 +19,22 @@ nav a {
     color: #EF6D6D
 }
 
-.about-me a {
-    text-decoration: none;
-    color: #357C3C;
-    font-size: 25px;
-    
+body {
+    font-family: 'Rubik', sans-serif; !important;
+}
+
+#github-btn {
+    background-color: #EF6D6D;
+    border: #EF6D6D;
 }
 
 .about-me {
-    text-align: center;
+    background-color: #357C3C; !important;
 }
 
-.about-me-links {
-    display: flex;
-    justify-content: space-evenly;
-    text-align: center;
-    
+.about-me h1 {
+    color: #573391;
 }
-
-#about-me-link:hover {
-    color: #EF6D6D
-}
-
 
 
 .img-container {
@@ -57,6 +51,35 @@ nav a {
     position: relative; left: 30px; top: 2px;
 
 }
+
+
+
+.contact a {
+    text-decoration: none;
+    color: #573391;
+    font-size: 25px;
+    
+}
+
+.contact {
+    text-align: center;
+    background-color: #357C3C; !important;
+
+}
+
+.contact-links {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    
+}
+
+#contact-link:hover {
+    color: #EF6D6D
+}
+
+
+
 
 
 
