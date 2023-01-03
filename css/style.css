@@ -68,7 +68,7 @@ body {
     position: relative;
     display: flex;
     align-items: center;
-    margin-bottom: 5px;
+    margin-bottom: 7px;
 }
 
 .card-body {
@@ -149,7 +149,7 @@ body {
     }
 
     .img-container img {
-        position: absolute; top: 50px; left: 10px;  
+        position: absolute; top: 50px; left: -5px;  
      }
 
 
