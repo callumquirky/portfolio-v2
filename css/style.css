@@ -69,6 +69,12 @@ body {
     display: flex;
     align-items: center;
     margin-bottom: 7px;
+    height: 450px;
+    width: 450px;
+}
+
+.card img {
+    max-height: 450px;
 }
 
 .card-body {
