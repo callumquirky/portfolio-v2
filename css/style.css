@@ -141,12 +141,16 @@ body {
         position: relative; top: 20px;
     }
     .about-me-container {
-        max-width: 50%;
+        max-width: 55%;
     }
 
     .img-container {
-        max-width: 50%;
+        max-width: 45%;
     }
+
+    .img-container img {
+        position: absolute; top: 50px; left: 10px;  
+     }
 
 
 
