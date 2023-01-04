@@ -14,7 +14,7 @@ Features include:
 
 * A custom font and colour scheme to add a personal flair.
 
-* Hover effects for cards on the portfolio, that displays further information and buttons to deployed sites and GitHub repos,
+* Hover effects for cards on the portfolio, that display further information and buttons to deployed sites and GitHub repos,
 
 ![Alt text](/images/hover-effect-example.PNG)
 
