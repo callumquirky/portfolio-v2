@@ -41,12 +41,13 @@ body {
 }
 
 .about-me {
-    background-color: #357C3C; 
+    background-color: #357C3C;
 }
 
 .about-me h1 {
     color: #573391;
 }
+
 
 
 .img-container {
@@ -78,7 +79,7 @@ body {
 .card img {
     height: 100%;
     width: 100%;
-    object-fit: fill;
+    object-fit: cover;
 }
 
 .card-body {
